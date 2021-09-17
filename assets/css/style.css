@@ -2921,7 +2921,7 @@ p.date {
 }
 
 .story-area-top:after {
-	background-image: url(../img/about-story.jpg);
+	background-image: url(../img/about-story.png);
 	background-position: center center;
 	background-size: cover;
 	bottom: 0;
@@ -2933,7 +2933,7 @@ p.date {
 }
 
 .story-area-bottom:after {
-	background-image: url(../img/about-vission.jpg);
+	background-image: url(../img/about-vission.png);
 	background-position: center center;
 	background-size: cover;
 	bottom: 0;
